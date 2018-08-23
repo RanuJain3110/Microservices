@@ -1,0 +1,2 @@
+some.property=app
+some.other.property=appother
